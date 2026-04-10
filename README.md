@@ -35,6 +35,12 @@
 
 ## Installation
 
+📥 Step 1: Download
+1. Download the project as a ZIP from GitHub
+2. Extract the ZIP file
+3. You will get a folder like MikhmonCE-main
+4. Rename the folder to mikhmon-ce
+
 ### Windows (Recommended: Laragon)
 
 1. Download and install [Laragon](https://laragon.org/download) (Free, Full version)
