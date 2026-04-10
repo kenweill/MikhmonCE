@@ -33,7 +33,7 @@ if (!isset($_SESSION["mikhmon"])) {
           <li>Original Author : <a href="https://github.com/laksa19" target="_blank">Laksamadi Guko</a></li>
           <li>Licence : <a href="https://github.com/laksa19/mikhmonv3/blob/master/LICENSE" target="_blank">GPLv2</a></li>
           <li>Original MikhMon : <a href="https://github.com/laksa19/mikhmonv3" target="_blank">github.com/laksa19/mikhmonv3</a></li>
-          <li>MikhMon CE GitHub : <a href="https://github.com" target="_blank">github.com (update with your fork URL)</a></li>
+          <li>MikhMon CE GitHub : <a href="https://github.com/kenweill/MikhmonCE" target="_blank">github.com/kenweill/MikhmonCE</a></li>
           <li>API Class : <a href="https://github.com/BenMenking/routeros-api" target="_blank">routeros-api</a></li>
         </ul>
         </p>
